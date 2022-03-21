@@ -80,7 +80,7 @@ class Login extends Component {
                                 onChange={(event)=>this.handleOnChangePassword(event)}
                                 />
                                 <span onClick={()=>{this.handleShowHidePassword()}}>
-                                    <i class={this.state.isShowPassword ? "fa fa-eye" : "fa fa-eye-slash"}></i>
+                                    <i className={this.state.isShowPassword ? "fa fa-eye" : "fa fa-eye-slash"}></i>
                                 </span>
                                 
                             </div>
@@ -90,7 +90,7 @@ class Login extends Component {
                             {this.state.errMessage}
                         </div>
                         <div className="col-12">
-                            <button class="btn-login" onClick={()=>{this.handleLogin()}}>LOGIN</button>
+                            <button className="btn-login" onClick={()=>{this.handleLogin()}}>LOGIN</button>
                         </div>
                         <div className="col-12">
                             <span className="forgot-password">Forgot your password?</span>
