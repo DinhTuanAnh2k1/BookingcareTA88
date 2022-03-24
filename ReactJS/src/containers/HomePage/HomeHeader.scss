@@ -52,15 +52,27 @@
             }
             .language-vi {
                 cursor: pointer;
+                opacity: 0.5;
                 &.active {
-                    color: orange;
+                    span {
+                        color: orange;
+                    }
+                }
+                &:hover {
+                    opacity: 1;
                 }
             }
             .language-en {
                 cursor: pointer;
                 margin: 0 10px;
+                opacity: 0.5;
                 &.active {
-                    color: blue;
+                    span {
+                        color: blue;
+                    }
+                }
+                &:hover {
+                    opacity: 1;
                 }
             }
         }
@@ -117,6 +129,7 @@
     }
     .content-down {
         height: 35%;
+        padding-bottom: 10px;
         display: flex;
         align-items: flex-end;
         justify-content: center;
