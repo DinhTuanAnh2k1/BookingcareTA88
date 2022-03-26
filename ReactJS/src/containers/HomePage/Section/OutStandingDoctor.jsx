@@ -21,7 +21,7 @@ class OutStandingDoctor extends Component {
                                         <div className="bg-image section-outstanding-docter"></div>
                                     </div>
                                     <div className="position text-center">
-                                        <div>Giáo sư, Tiến sĩ Tuấn Anh 88</div>
+                                        <div>Gs, Tiến sĩ Tuấn Anh 88</div>
                                         <div>Khoa Trĩ</div>
                                     </div>
                                 </div>
@@ -32,7 +32,7 @@ class OutStandingDoctor extends Component {
                                         <div className="bg-image section-outstanding-docter"></div>
                                     </div>
                                     <div className="position text-center">
-                                        <div>Giáo sư, Tiến sĩ Tuấn Anh 88</div>
+                                        <div>GS, Tiến sĩ Tuấn Anh 88</div>
                                         <div>Khoa Trĩ</div>
                                     </div>
                                 </div>
@@ -43,7 +43,7 @@ class OutStandingDoctor extends Component {
                                         <div className="bg-image section-outstanding-docter"></div>
                                     </div>
                                     <div className="position text-center">
-                                        <div>Giáo sư, Tiến sĩ Tuấn Anh 88</div>
+                                        <div>GS, Tiến sĩ Tuấn Anh 88</div>
                                         <div>Khoa Trĩ</div>
                                     </div>
                                 </div>
@@ -54,7 +54,7 @@ class OutStandingDoctor extends Component {
                                         <div className="bg-image section-outstanding-docter"></div>
                                     </div>
                                     <div className="position text-center">
-                                        <div>Giáo sư, Tiến sĩ Tuấn Anh 88</div>
+                                        <div>GS, Tiến sĩ Tuấn Anh 88</div>
                                         <div>Khoa Trĩ</div>
                                     </div>
                                 </div>
@@ -65,7 +65,7 @@ class OutStandingDoctor extends Component {
                                         <div className="bg-image section-outstanding-docter"></div>
                                     </div>
                                     <div className="position text-center">
-                                        <div>Giáo sư, Tiến sĩ Tuấn Anh 88</div>
+                                        <div>GS, Tiến sĩ Tuấn Anh 88</div>
                                         <div>Khoa Trĩ</div>
                                     </div>
                                 </div>
@@ -76,7 +76,7 @@ class OutStandingDoctor extends Component {
                                         <div className="bg-image section-outstanding-docter"></div>
                                     </div>
                                     <div className="position text-center">
-                                        <div>Giáo sư, Tiến sĩ Tuấn Anh 88</div>
+                                        <div>GS, Tiến sĩ Tuấn Anh 88</div>
                                         <div>Khoa Trĩ</div>
                                     </div>
                                 </div>
