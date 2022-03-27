@@ -22,7 +22,16 @@
         "child6": "Dental Examination"
     },
     "menu": {
+        "system": {
+            "header": "System",
+            "system-administrator": {
+                "header": "System Administrator",
+                "user-manage": "User manage",
+                "user-redux": "manage user using redux"
+            }
+        },
         "admin": {
+
             "manage-user": "Users",
             "manage-doctor": "Manage doctors",
             "manage-admin": "Manage admins",

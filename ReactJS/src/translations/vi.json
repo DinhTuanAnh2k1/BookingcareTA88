@@ -22,6 +22,14 @@
         "child6": "Khám Nha khoa"
     },
     "menu": {
+        "system": {
+            "header": "Hệ thống",
+            "system-administrator": {
+                "header": "Quản trị hệ thống",
+                "user-manage": "Quản lý người sử dụng",
+                "user-redux": "Quản lý user redux"
+            }
+        },
         "admin": {
             "manage-user": "Người dùng",
             "manage-doctor": "Quản lý bác sĩ",
