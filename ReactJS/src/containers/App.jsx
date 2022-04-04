@@ -12,7 +12,7 @@ import System from '../routes/System';
 import { CustomToastCloseButton } from '../components/CustomToast';
 import HomePage from './HomePage/HomePage.jsx';
 import CustomScrollbars from '../components/CustomScrollbars';
-import { Toast } from 'reactstrap';
+import DetaiDoctor from './Patient/Doctor/DetailDoctor'
 class App extends Component {
 
     handlePersistorState = () => {
@@ -45,6 +45,7 @@ class App extends Component {
                                 <Route path={path.LOGIN} component={userIsNotAuthenticated(Login)} />
                                 <Route path={path.SYSTEM} component={userIsAuthenticated(System)} />
                                 <Route path={path.HOMEPAGE} component={HomePage} />
+                                <Route path={path.DETAIL_DOCTOR} component={DetaiDoctor}/>
                             </Switch>
                             </CustomScrollbars>
                         </div>
