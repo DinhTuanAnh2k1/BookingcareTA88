@@ -76,10 +76,16 @@
     "admin": {
         "manage-doctor": {
             "title": "CREATE MORE INFORMATION DOCTORS",
-            "select-doctor": "Select doctor",
-            "intro": "Introduction: ",
+            "select-doctor": "Doctor",
+            "intro": "Introduction",
             "add": "Create infor",
-            "save": "Save infor"
+            "save": "Save infor",
+            "price": "Prive",
+            "payment": "Payment",
+            "province": "Province",
+            "nameClinic": "Clinic's name",
+            "addressClinic": "Clinic's address",
+            "note": "Note"
         }
     }
 }
