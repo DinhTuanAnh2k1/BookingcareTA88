@@ -67,7 +67,7 @@
     },
     "patient": {
         "detail-doctor": {
-            "schedule": "Schedule",
+            "schedule": " Schedule",
             "no-schedule": "The doctor does not have an appointment during this time, please",
             "choose": "Choose ",
             "book-free": " and book (free)"

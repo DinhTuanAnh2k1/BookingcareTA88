@@ -66,7 +66,7 @@
     },
     "patient": {
         "detail-doctor": {
-            "schedule": "Lịch khám",
+            "schedule": " Lịch khám",
             "no-schedule": "Bác sĩ không có lịch khám",
             "choose": "Chọn ",
             "book-free": " và đặt (miễn phí)"
