@@ -55,9 +55,9 @@ class DoctorExtraInfor extends Component {
                     <div className="name-clinic">
                         {extraInfor&&extraInfor.nameClinic?extraInfor.nameClinic:''}
                     </div>
-                    <di className="detail-address">
+                    <div className="detail-address">
                     {extraInfor&&extraInfor.addressClinic?extraInfor.addressClinic:''}
-                    </di>
+                    </div>
                 </div>
                 <div className="content-down">
                 
