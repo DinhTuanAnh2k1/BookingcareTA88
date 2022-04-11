@@ -17,9 +17,10 @@ let postBookAppointment = (data) => {
 
                 await emailService.sendSimpleEmail({
                     reciverEmail: data.email,
-                    patientName: 'Tuấn Anh đẹp trai',
-                    time: '8:00 - 9:00 Chủ nhật 10/4/2022',
-                    doctorName: 'Tuấn Anh',
+                    patientName: data.fullName,
+                    time: data.timeString,
+                    doctorName: data.doctorName,
+                    language: data.language,
                     redirectLink: 'https://www.facebook.com/tuananh12072001'
                 })
 
