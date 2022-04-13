@@ -118,7 +118,7 @@ let saveDetailInforDoctor = (inputData) => {
                     doctorInfor.doctorId = inputData.doctorId;
                     doctorInfor.priceId = inputData.selectedPrice;
                     doctorInfor.paymentId = inputData.selectedPayment;
-                    doctorInfor.provinceId = inputData.selectProvince;
+                    doctorInfor.provinceId = inputData.selectedProvince;
                     doctorInfor.nameClinic = inputData.nameClinic;
                     doctorInfor.addressClinic = inputData.addressClinic;
                     doctorInfor.note = inputData.note;
