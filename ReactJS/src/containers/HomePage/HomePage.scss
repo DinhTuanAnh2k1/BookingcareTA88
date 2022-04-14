@@ -1,6 +1,6 @@
 .slick-prev {
     left: -20px !important;
-    z-index: 1000 !important;
+    z-index: 900 !important;
     height: 48px !important;
     width: 44px !important;
     background: #fff !important;
@@ -18,7 +18,7 @@
 
 .slick-next {
     right: -4px !important;
-    z-index: 1000 !important;
+    z-index: 900 !important;
     height: 48px !important;
     width: 44px !important;
     background: #fff !important;
@@ -68,7 +68,7 @@
                     border-radius: 50%;
                 }
                 &.section-handbook {
-                    background-image: url('../../assets/handbook/handbook.jpg');
+                    background-image: url('../../assets/images/cam-nang.jpg');
                 }
             }
         }

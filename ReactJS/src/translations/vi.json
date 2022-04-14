@@ -58,7 +58,10 @@
     "homepage": {
         "outstanding-doctor": "Bác sĩ nổi bật tuần qua",
         "more-infor": "Xem thêm",
-        "speciality-poplular": "Chuyên khoa phổ biến"
+        "speciality-poplular": "Chuyên khoa phổ biến",
+        "handbook": "Cẩm nang ",
+        "outstanding-medical": "Cơ sở y tế nổi bật",
+        "flo": "Khi admin múa Florentino.exe sẽ thế nào"
     },
     "manage-schedule": {
         "title": "Quản lý kế hoạch khám bệnh của bác sĩ",

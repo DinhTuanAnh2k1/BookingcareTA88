@@ -8,7 +8,7 @@ class About extends Component {
         return ( 
             <div className="section-share section-about">
                 <div className="section-about-header">
-                    Khi admin múa Florentino.exe sẽ thế nào
+                <FormattedMessage id="homepage.flo"/>
                 </div>
                 <div className="section-about-content">
                     <div className="content-left">

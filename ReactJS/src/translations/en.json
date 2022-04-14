@@ -59,7 +59,10 @@
     "homepage": {
         "outstanding-doctor": "Last week's featured doctor",
         "more-infor": "More Infor",
-        "speciality-poplular": "Poplular specialties"
+        "speciality-poplular": "Poplular specialties",
+        "handbook": "Handbook ",
+        "outstanding-medical": "Outstanding medical",
+        "flo": "What will happen when the admin dances Florentino.exe?"
     },
     "manage-schedule": {
         "title": "Manage doctor's examination plan",

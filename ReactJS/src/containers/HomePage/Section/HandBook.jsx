@@ -10,34 +10,34 @@ class HandBook extends Component {
             <div className="section-share section-handbook">
                 <div className="section-container">
                     <div className="section-header">
-                        <span className="title-section">Cẩm nang</span>
-                        <button className="btn-section">Xem thêm</button>
+                        <span className="title-section"><FormattedMessage id="homepage.handbook"/></span>
+                        <button className="btn-section"><FormattedMessage id="homepage.more-infor"/></button>
                     </div>
                     <div className="section-body">
                         <Slider {...this.props.settings}>
                             <div className="section-customize">
                                 <div className="bg-image section-handbook"></div>
-                                <div>Cẩm nang bệnh trĩ 1</div>
+                                <div><FormattedMessage id="homepage.handbook"/> 1</div>
                             </div>
                             <div className="section-customize">
                                 <div className="bg-image section-handbook"></div>
-                                <div>Cẩm nang bệnh trĩ 2</div>
+                                <div><FormattedMessage id="homepage.handbook"/> 2</div>
                             </div>
                             <div className="section-customize">
                                 <div className="bg-image section-handbook"></div>
-                                <div>Cẩm nang bệnh trĩ 3</div>
+                                <div><FormattedMessage id="homepage.handbook"/> 3</div>
                             </div>
                             <div className="section-customize">
                                 <div className="bg-image section-handbook"></div>
-                                <div>Cẩm nang bệnh trĩ 4</div>
+                                <div><FormattedMessage id="homepage.handbook"/> 4</div>
                             </div>
                             <div className="section-customize">
                                 <div className="bg-image section-handbook"></div>
-                                <div>Cẩm nang bệnh trĩ 5</div>
+                                <div><FormattedMessage id="homepage.handbook"/> 5</div>
                             </div>
                             <div className="section-customize">
                                 <div className="bg-image section-handbook"></div>
-                                <div>Cẩm nang bệnh trĩ 6</div>
+                                <div><FormattedMessage id="homepage.handbook"/> 6</div>
                             </div>
                         </Slider>
                     </div>
