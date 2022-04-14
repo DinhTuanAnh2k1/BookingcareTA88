@@ -10,6 +10,7 @@ class HomeFooter extends Component {
                 <p>&copy; 2022 TuanAnh88. More information, please visit my facebook.
                     <a target="_blank" href="https://www.facebook.com/tuananh12072001"> &#8594; Click here &#8592;</a>
                 </p>
+                
             </div>
         );
     }
