@@ -66,7 +66,7 @@ class OutStandingDoctor extends Component {
                                             </div>
                                             <div className="position text-center">
                                                 <div>{language === LANGUAGES.VI ? nameVi : nameEn}</div>
-                                                <div>Khoa Trĩ</div>
+                                                {/* <div>Khoa Trĩ</div> */}
                                             </div>
                                         </div>
                                     </div>
