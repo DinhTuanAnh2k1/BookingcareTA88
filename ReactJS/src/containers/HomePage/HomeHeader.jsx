@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import './HomeHeader.scss';
 // import logo from '../../assets/logo.svg';
-import logo from '../../assets/images/logo.png';
+import logo from '../../assets/images/tuananh.svg';
 import {FormattedMessage} from 'react-intl';
 import {LANGUAGES} from '../../utils';
 import {withRouter} from 'react-router';
